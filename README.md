@@ -1,16 +1,16 @@
-[![Divyanshu Yadav](https://raw.githubusercontent.com/thedivyanshuyadav/thedivyanshuyadav/main/banner.gif "Divyanshu Yadav")](https://thedivyanshuyadav.github.io/)
+[![kanishchugh](https://raw.githubusercontent.com/kanishchugh/kanishchugh/main/header.png "kanishchugh")]
+## (https://thedivyanshuyadav.github.io/)
 
 
 ## About 👋
 
-I am currently persuing B.Tech(IT) from Rajkiya Engineering College Azamgarh which is affiliated by Dr A.P.J. Abdul Kalam Technical University (AKTU) formerly known as Uttar Pradesh Technical University (UPTU). I am an aspiring Machine Learning Engineer. Apart from Machine Learning , I am also skilled in Web Development. My hobbies are singing, playing chess and watching movies. I am greatly interested in Data Science and Machine Learning. I am enthusiastically looking forward to contribute to open source projects through Github.
+I am currently persuing B.Tech(IT) from Inderprastha Engineering College which is affiliated by Dr A.P.J. Abdul Kalam Technical University (AKTU) formerly known as Uttar Pradesh Technical University (UPTU). I am an aspiring Machine Learning Engineer. Apart from Machine Learning , I am also skilled in building IoT applications. I am greatly interested in Data Science and Machine Learning as well as Robotics. I am enthusiastically looking forward to contribute to open source projects through Github.
 
 
 - 🔭 I’m currently working on portfolio
-- 🌱 I’m currently learning something new in machine learning.
+- 🌱 I’m currently learning to develop models in machine learning.
 - 👯 I’m looking to collaborate on Kaggle Competitions
 - 💬 Ask me about Anything.
-- 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** Zoologists are wrong. Not every ***Python*** is a snake.
 
 <br>
@@ -41,16 +41,15 @@ I am currently persuing B.Tech(IT) from Rajkiya Engineering College Azamgarh whi
 
 ## Connect 🤝
 
-[![](https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/divyanshuyadav/) &emsp;
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thedivyanshuyadav/) &emsp;
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thedivyanshuyadav@gmail.com) &emsp;
-[![](https://img.shields.io/badge/Hackerrank-0bb359?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/thedivyanshu) &emsp;
-[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iamdivyanshuyadav) &emsp; 
+[![](https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kanishchugh) &emsp;
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishchugh/) &emsp;
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanishchugh2001@gmail.com) &emsp;
+[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kanishchugh) &emsp; 
 
 <br>
 
 ## Stats 🧠
 
-![Divyanshu's github stats](https://github-readme-stats.vercel.app/api?username=thedivyanshuyadav&count_private=true&show_icons=true&hide=contribs,prs&cache_seconds=1000&bg_color=0,#f6736,#6533f)
+![Kanish's github stats](https://github-readme-stats.vercel.app/api?username=kanishchugh&count_private=true&show_icons=true&hide=contribs,prs&cache_seconds=1000&bg_color=0,#f6736,#6533f)
 
 <br>
