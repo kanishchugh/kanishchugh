@@ -1,4 +1,4 @@
-[![kanishchugh](https://raw.githubusercontent.com/kanishchugh/kanishchugh/header.png "kanishchugh")]
+[![kanishchugh](https://raw.githubusercontent.com/kanishchugh/kanishchugh/blob/main/header.png "kanishchugh")]
 
 ## About 👋
 
