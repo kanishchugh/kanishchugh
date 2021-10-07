@@ -2,7 +2,7 @@
 
 ## About 👋
 
-I am currently persuing B.Tech(IT) from Inderprastha Engineering College which is affiliated by Dr A.P.J. Abdul Kalam Technical University (AKTU) formerly known as Uttar Pradesh Technical University (UPTU). I am an aspiring Machine Learning Engineer. Apart from Machine Learning , I am also skilled in building IoT applications. I am greatly interested in Data Science and Machine Learning as well as Robotics. I am enthusiastically looking forward to contribute to open source projects through Github.
+I am currently persuing B.Tech(ECE) from Inderprastha Engineering College which is affiliated by Dr A.P.J. Abdul Kalam Technical University (AKTU) formerly known as Uttar Pradesh Technical University (UPTU). I am an aspiring Machine Learning Engineer. Apart from Machine Learning , I am also skilled in building IoT applications. I am greatly interested in Data Science and Machine Learning as well as Robotics. I am enthusiastically looking forward to contribute to open source projects through Github.
 
 
 - 🔭 I’m currently working on portfolio
