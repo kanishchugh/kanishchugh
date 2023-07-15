@@ -40,10 +40,4 @@ I am currently pursuing B.Tech(ECE) from Dr A.P.J. Abdul Kalam Technical Univers
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanishchugh2001@gmail.com) &emsp;
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kanish.chugh.9) &emsp; 
 
-<br>
 
-## Stats 🧠
-
-![Kanish's github stats](https://github-readme-stats.vercel.app/api?username=kanishchugh&count_private=true&show_icons=true&hide=contribs,prs&cache_seconds=1000&bg_color=0,#f6736,#6533f)
-
-<br>
