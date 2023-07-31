@@ -2,7 +2,7 @@
 
 ## About 👋
 
-I am currently pursuing B.Tech(ECE) from Dr A.P.J. Abdul Kalam Technical University (AKTU) formerly known as Uttar Pradesh Technical University (UPTU). I am an aspiring Machine Learning Engineer. Apart from Machine Learning , I am also skilled in building IoT applications. I am greatly interested in Data Science and Machine Learning as well as Robotics. I am enthusiastically looking forward to contribute to open source projects through Github.
+I am Kanish Chugh, a recent graduate with a Bachelors degree, aspiring to become a Data Scientist. My passion for the field of Data Science extends to exploring the realms of Machine Learning, IoT applications, and Robotics. I am deeply enthusiastic about collaborating on open source projects on Github, where I aim to contribute and drive innovation in these domains. With a strong foundation and a curious mindset, I am eager to leverage data-driven insights to tackle complex challenges and make a positive impact in the world of data science.
 
 
 - 🔭 I’m currently working on my portfolio
