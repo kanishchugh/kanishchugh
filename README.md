@@ -68,8 +68,3 @@ More recently I've been working with LLMs — building a RAG chatbot with LangCh
 - **Open to** — collaborating on open-source data and Gen AI projects, and Kaggle competitions
 
 ---
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kanishchugh&show_icons=true&hide_border=true&hide_title=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishchugh&layout=compact&hide_border=true" />
-</p>
